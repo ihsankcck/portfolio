@@ -23,14 +23,14 @@ export default function MyComponent() {
 	}
 
 	const staticData = [
-		{ name: "Item 1", image: "/css-logo.png", color: "#007BFF" },
-		{ name: "Item 2", image: "/html-logo.png", color: "#0056D2" },
-		{ name: "Item 3", image: "/js-logo.webp", color: "#66B2FF" },
-		{ name: "Item 4", image: "/react-logo.png", color: "#3399FF" },
-		{ name: "Item 5", image: "/nodejs-logo.webp", color: "#004080" },
-		{ name: "Item 1", image: "/pug-logo.png", color: "#007BFF" },
-		{ name: "Item 2", image: "/tailwind-logo.png", color: "#0056D2" },
-		{ name: "Item 3", image: "/sass-logo.png", color: "#66B2FF" },
+		{ name: "Item 1", image: "/css-logo.png", color: "#1E88E5" },
+		{ name: "Item 2", image: "/html-logo.png", color: "#0D47A1" },
+		{ name: "Item 3", image: "/js-logo.webp", color: "#42A5F5" },
+		{ name: "Item 4", image: "/react-logo.png", color: "#2196F3" },
+		{ name: "Item 5", image: "/nodejs-logo.webp", color: "#1565C0" },
+		{ name: "Item 1", image: "/pug-logo.png", color: "#1976D2" },
+		{ name: "Item 2", image: "/tailwind-logo.png", color: "#0D47A1" },
+		{ name: "Item 3", image: "/sass-logo.png", color: "#64B5F6" },
 
 	];
 
